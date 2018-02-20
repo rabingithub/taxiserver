@@ -16,9 +16,11 @@ public class TaxiServer {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+      public static void main(String[] args) {
         // TODO code application logic here
-        CustomerInterface app_frame_one=new CustomerInterface();
+        CustomerInterface Frame1 = new CustomerInterface();
     }
+    
+  
     
 }
